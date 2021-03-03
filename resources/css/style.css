@@ -17,7 +17,7 @@ a:active {
 }
 
 #container, footer, header {
-    width: 960px;
+    width: 970px;
     margin: 0 auto;
     background-color: white;
     padding: 10px 20px;
